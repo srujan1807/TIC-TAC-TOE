@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Task 3
+# Tic-Tac-Toe
 web application using HTML,CSS and JavaScript
